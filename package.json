@@ -1,5 +1,5 @@
 {
-  "name": "eslint-plugin-no-relative-import-paths",
+  "name": "eslint-plugin-no-relative-import-paths-fork",
   "version": "1.6.2",
   "description": "",
   "main": "index.js",
